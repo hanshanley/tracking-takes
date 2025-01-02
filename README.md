@@ -12,9 +12,27 @@ We collect articles from 1,003 websites labeled as having "low" or "very low" fa
 We collect articles from 1,012 mixed-reliability news websites labeled as having mixed factual reporting by Media-Bias/Fact-Check. This list includes websites across the political spectrum, such as foxnews.com, nypost.com, and theguardian.com.
  
 ### Reliable News Websites.
-We collect articles from 2,061 \textit{reliable} news websites labeled as having high, very high, or mostly factual reporting by Media-Bias/Fact-Check. The category "mostly factual" is included to capture sources with strong reputations like The Washington Post. This list features websites such as reuters.com and apnews.com.
-
+We collect articles from 2,061 reliable news websites labeled as having high, very high, or mostly factual reporting by Media-Bias/Fact-Check. The category "mostly factual" is included to capture sources with strong reputations like The Washington Post. This list features websites such as reuters.com and apnews.com.
 
 ## DP-Means Clustering
 
 We utilize DP-Means clustering via cosine similarity to identify narratives/stories. A cosine similarity implementation can be found in the folder `dpmeans_clustering`.
+
+
+## License and Copyright
+
+Copyright 2025 The Board of Trustees of The Leland Stanford Junior University
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
