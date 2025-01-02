@@ -12,4 +12,9 @@ We collect articles from 1,003 websites labeled as having "low" or "very low" fa
 We collect articles from 1,012 mixed-reliability news websites labeled as having mixed factual reporting by Media-Bias/Fact-Check. This list includes websites across the political spectrum, such as foxnews.com, nypost.com, and theguardian.com.
  
 ### Reliable News Websites.
-We collect articles from 2,061 \textit{reliable} news websites labeled as having high, very high, or mostly factual reporting by Media-Bias/Fact-Check. The category "mostly factua" is included to capture sources with strong reputations like The Washington Post. This list features websites such as reuters.com and apnews.com.
+We collect articles from 2,061 \textit{reliable} news websites labeled as having high, very high, or mostly factual reporting by Media-Bias/Fact-Check. The category "mostly factual" is included to capture sources with strong reputations like The Washington Post. This list features websites such as reuters.com and apnews.com.
+
+
+## DP-Means Clustering
+
+We utilize DP-Means clustering via cosine similarity to identify narratives/stories. A cosine similarity implementation can be found in the folder `dpmeans_clustering`.
