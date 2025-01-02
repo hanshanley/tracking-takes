@@ -3,7 +3,7 @@ import gc
 from types import SimpleNamespace
 from transformers import AutoTokenizer
 from peft import LoraConfig, TaskType, get_peft_model, PeftModel
-from contrastive_mpnet import ContrastiveModel
+from contrastive_base import ContrastiveModel
 import torch.nn.functional as F
 
 # Check and configure the device
