@@ -19,10 +19,9 @@ TQDM_DISABLE = False
 
 # Model Definition
 class ContrastiveModel(nn.Module):
-    def __init__(self, config, normalize=True):
+    def __init__(self, config, ):
         super(ContrastiveModel, self).__init__()
         self.model = AutoModel.from_pretrained(config.model_name)
-        self.normalize = normalize
         self.cos = torch.nn.CosineSimilarity()
         self.dropout = torch.nn.Dropout(config.hidden_dropout_prob)
         self.dropout2 = torch.nn.Dropout(config.hidden_dropout_prob)
