@@ -3,7 +3,7 @@ Uncovering and understanding how influence networks push propaganda and disinfor
 
 ## Website and URL Information
 
-We provide the domains and the URLs we utilized within this work.
+We provide the domains and the URLs we utilized within this work. The domains can be found in the `domains.txt` and the URLS can be downloaded [here]().
 
 ### Unreliable News Websites
 We collect articles from 1,003 websites labeled as having "low" or "very low" factual reporting by Media-Bias/Fact-Check. We extend this list with conspiracy theory-promoting websites identified by Hanley et al.. Our list of unreliable news websites includes pseudo-science sites like vaccine.news, state-propaganda outlets such as rt.com, and partisan websites with low-factuality ratings like the liberal-leaning occupydemocrats.com.
