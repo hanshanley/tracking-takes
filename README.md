@@ -6,7 +6,7 @@ Understanding how misleading and outright false information enters news ecosyste
 We provide the domains and the URLs we utilized within this work. The domains can be found in the `domains.txt` and the URLS can be downloaded [here]().
 
 ### Unreliable News Websites
-We collect articles from 1,003 websites labeled as having "low" or "very low" factual reporting by Media-Bias/Fact-Check. We extend this list with conspiracy theory-promoting websites identified by Hanley et al.. Our list of unreliable news websites includes pseudo-science sites like vaccine.news, state-propaganda outlets such as rt.com, and partisan websites with low-factuality ratings like the liberal-leaning occupydemocrats.com.
+We collect articles from 1,003 websites labeled as having "low" or "very low" factual reporting by Media-Bias/Fact-Check. We extend this list with conspiracy theory-promoting websites identified by [Hanley et al](https://dl.acm.org/doi/10.1145/3610043). Our list of unreliable news websites includes pseudo-science sites like vaccine.news, state-propaganda outlets such as rt.com, and partisan websites with low-factuality ratings like the liberal-leaning occupydemocrats.com.
 
 ### Mixed-Reliability Websites
 We collect articles from 1,012 mixed-reliability news websites labeled as having mixed factual reporting by Media-Bias/Fact-Check. This list includes websites across the political spectrum, such as foxnews.com, nypost.com, and theguardian.com.
